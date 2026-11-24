@@ -1,0 +1,7 @@
+subset,config,all_same,pairwise_agree
+algo,all_at_once|demo-A|T0.7,0.007936507936507936,0.23730158730158732
+algo,all_at_once|demo-B|T0.7,0.0,0.25158730158730164
+algo,binary_search|demo-A|T0.7,0.007936507936507936,0.20634920634920637
+hand,all_at_once|demo-A|T0.7,0.017241379310344827,0.16034482758620688
+hand,all_at_once|demo-B|T0.7,0.05172413793103448,0.25689655172413794
+hand,binary_search|demo-A|T0.7,0.0,0.1706896551724138
